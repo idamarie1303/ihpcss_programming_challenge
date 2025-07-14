@@ -1,1 +1,2 @@
-# International High Performance Computing Summer School 2025
+# International HPC Summer School 2025
+
